@@ -1,6 +1,7 @@
 # NASA Spacewalk Analysis — Reproducible Manuscript
 [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.491780.svg)](https://handle.test.datacite.org/10.5072/zenodo.491780)
-# This CITATION.cff file was generated with cffinit.
+
+[Uploadi# This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
@@ -18,7 +19,7 @@ abstract: Spacewalking
 license: MIT
 version: v.1.0.0
 date-released: '2026-04-22'
-
+ng CITATION.cff…]()
 
 
 
