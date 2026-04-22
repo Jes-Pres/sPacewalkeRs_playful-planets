@@ -1,26 +1,6 @@
 # NASA Spacewalk Analysis — Reproducible Manuscript
 [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.491780.svg)](https://handle.test.datacite.org/10.5072/zenodo.491780)
 
-[Uploadi# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
-cff-version: 1.2.0
-title: sPacewalkeRs_playful-planets
-message: Hi!!!!!
-type: software
-authors:
-  - given-names: Jessica
-    family-names: Prescott
-identifiers:
-  - type: doi
-    value: 10.5072/zenodo.491780
-repository-code: 'https://github.com/Jes-Pres/sPacewalkeRs_playful-planets'
-abstract: Spacewalking
-license: MIT
-version: v.1.0.0
-date-released: '2026-04-22'
-ng CITATION.cff…]()
-
 
 
 
