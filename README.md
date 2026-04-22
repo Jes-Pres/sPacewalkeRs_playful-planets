@@ -1,6 +1,6 @@
 # NASA Spacewalk Analysis — Reproducible Manuscript
 [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.491780.svg)](https://handle.test.datacite.org/10.5072/zenodo.491780)
-https://img.shields.io/badge/license-MIT
+/badge/license-MIT
 
 
 
